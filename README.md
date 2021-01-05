@@ -5,7 +5,7 @@ Portifolio
 
 O controle das tarefas desse projeto será realizado via GitHub
 
-##Icones
+## Icones
 
 :package: nova funcionalidade
 :up: atualizações
